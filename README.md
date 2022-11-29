@@ -19,6 +19,7 @@
     <img alt ="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img alt ="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img alt ="POSTRGES" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img alt ="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ![Uyran's GitHub stats](https://github-readme-stats.vercel.app/api?username=uyransilva&show_icons=true&theme=merko)
