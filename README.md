@@ -1,5 +1,7 @@
 ## Olá, meu nome é Uyran Silva.
-#### Desenvolvedor fullstack, realizando transição de carreira vindo da engenharia. Direcionando meus estudos e exercícios  para o aprendizado em  lógica de programação, algoritmos, Git, HTML, CSS3, REACT, NodeJS (Express) e SQL. Utilizando também minha transição para aprimorar meus conhecimentos com metodologias ágeis, comunicação e trabalho em equipe. Busco oportunidades de desenvolvedor jr. na área de back-end, com NodeJS, ou front-end, com ReactJS.  
+#### Desenvolvedor fullstack, realizando transição de carreira vindo da engenharia. Direcionando meus estudos e exercícios  para o aprendizado em  lógica de programação, algoritmos, Git, HTML, CSS3, REACT, NodeJS (Express) e SQL. 
+#### Utilizando também minha transição para aprimorar meus conhecimentos com metodologias ágeis, comunicação e trabalho em equipe. Busco oportunidades como desenvolvedor back-end por ter mais afinidade com essa stack, principalmente com JavaScript, Node.Js, Express, NestJS, SQL e MySQL, mas posso atuar também no front-end, com HTML, CSS e React. 
+
 <hr>
 
 ## Redes sociais:
