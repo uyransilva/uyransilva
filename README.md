@@ -1,9 +1,11 @@
 ## Olá, meu nome é Uyran Silva.
-#### Em transição de carreira para a área de tecnologia, enxerguei no desenvolvimento de software um caminho de transformação. Por isso, realizei um curso de Desenvolvimento de sistemas Full-stack para iniciar essa jornada, aproveitando para ampliar o autoconhecimento, capacidade de aprendizado e disciplina, desenvolvendo minhas habilidades técnicas e comportamentais.
+#### Decidi fazer uma transição de carreira para a área de tecnologia, e encontrei no desenvolvimento de software um caminho de transformação. Para iniciar essa jornada, realizei um curso de Desenvolvimento de Sistemas Full-Stack, aproveitando para ampliar meu autoconhecimento, capacidade de aprendizado e disciplina, e desenvolver minhas habilidades técnicas e comportamentais.
+
+#### Soteropolitano, apaixonado por esportes, games, música, tecnologia e, é claro, um bom acarajé no final de tarde de sexta-feira - como todo bom baiano.
  
-#### Soteropolitano, apaixonado por esportes, games, música, tecnologia e louco por um acarajé no final de tarde de sexta feira - como um bom baiano.
- 
-#### Busco oportunidades como desenvolvedor back-end por ter mais afinidade com essa stack, principalmente com Node.Js, Express, NestJS e SQL, mas posso atuar também no front-end, com HTML, CSS e React. 
+#### Busco oportunidades como desenvolvedor back-end, área em que tenho mais afinidade, principalmente com Node.Js, Express, NestJS e SQL. Mas também posso atuar no front-end, utilizando HTML, CSS e React.
+
+#### Atualmente, estou estudando Node.js para me aprofundar ainda mais na área e também comecei a estudar PHP para expandir meu conhecimento.
 
 
 <hr>
