@@ -1,7 +1,7 @@
-##Product Owner com background em desenvolvimento fullstack. Comecei como dev trabalhando com React, PHP, Laravel e PostgreSQL em produtos SaaS ativos, e migrei para produto porque queria estar mais perto das decisões de negócio e da experiência do usuário.
+## Product Owner com background em desenvolvimento fullstack. Comecei como dev trabalhando com React, PHP, Laravel e PostgreSQL em produtos SaaS ativos, e migrei para produto porque queria estar mais perto das decisões de negócio e da experiência do usuário.
 ###Hoje atuo como PO em software house, gerenciando múltiplos produtos B2B simultaneamente. O histórico técnico me permite dialogar com times de engenharia sem intermediários, estimar complexidade com mais precisão e escrever critérios de aceite que reduzem retrabalho.
-###Tenho experiência com gestão de backlog, levantamento de requisitos, discovery, testes e validação de entregas em ciclos Scrum e Kanban. Já trabalhei com PHP, Laravel, React, PostgreSQL, Node.js, no-code e low-code.
-Soteropolitano, fã de games, música, história e um bom acarajé na sexta à tarde.
+### Tenho experiência com gestão de backlog, levantamento de requisitos, discovery, testes e validação de entregas em ciclos Scrum e Kanban. Já trabalhei com PHP, Laravel, React, PostgreSQL, Node.js, no-code e low-code.
+### Soteropolitano, fã de games, música, história e um bom acarajé na sexta à tarde.
 
 
 <hr>
